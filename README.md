@@ -1,4 +1,4 @@
-### Hi im Alexsander and i cursed Systems Development in 2022👋
+### Hi my name is Alexsander 👋, I'm 16 years old and i cursed Systems Development in 2022
 
 <!--
 **alexsanderrp/alexsanderrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
