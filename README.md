@@ -1,4 +1,4 @@
-### Hi im Alexsander 👋
+### Hi im Alexsander and i cursed Systems Development in 2022👋
 
 <!--
 **alexsanderrp/alexsanderrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
